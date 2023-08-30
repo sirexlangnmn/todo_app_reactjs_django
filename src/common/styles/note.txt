@@ -1,0 +1,2 @@
+global css styles.
+Pwede na lang gumawa ng components

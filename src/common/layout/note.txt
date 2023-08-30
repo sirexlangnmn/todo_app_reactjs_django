@@ -1,0 +1,3 @@
+wrapper.
+para consistent yung layout, yung gitna lang nagbabago o yung mismong content.
+like container layout, tapos yung part na laging nakikita sa webpage like navbar, footer, sidebar

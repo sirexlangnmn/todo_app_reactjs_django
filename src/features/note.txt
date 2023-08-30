@@ -1,0 +1,2 @@
+minsan tinatawag itong `domain`
+main logic, ex userAuthentication, cart, profile, forgotpassword, crud

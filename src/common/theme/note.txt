@@ -1,0 +1,2 @@
+theme.
+Gawa lang ng folder na dedicated sa component library like daisyui, mantine, flowbite

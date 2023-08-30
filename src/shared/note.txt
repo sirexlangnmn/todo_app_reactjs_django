@@ -1,0 +1,1 @@
+kung yung common at accessible to entire website, itong shared naman ay para lang sa iilang component na hindi nakikita sa lahat ng part website. Ex. Back to top, pagination

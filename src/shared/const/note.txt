@@ -1,0 +1,1 @@
+constant assets like website/company logo, hero slides, mp3, mp4, fonts, basta mga assets na pag aari ng mismong website

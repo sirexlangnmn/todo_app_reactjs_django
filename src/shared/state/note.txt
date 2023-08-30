@@ -1,0 +1,2 @@
+user ng redux.
+Kasi hindi naman lahat ng part ng website need ng state management.
